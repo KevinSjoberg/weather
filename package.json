@@ -1,0 +1,19 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "A simple weather application using the Open Weather API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KevinSjoberg/weather.git"
+  },
+  "author": "Kevin Sjöberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinSjoberg/weather/issues"
+  },
+  "homepage": "https://github.com/KevinSjoberg/weather#readme"
+}
